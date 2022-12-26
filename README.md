@@ -10,8 +10,13 @@ The stack of technologies used:
 Model limitations:
 
 
+
 About transfer learning:
 
 Testing in real time:
 
+About DockerHub:
+
 Results:
+
+
