@@ -17,6 +17,6 @@ Testing in real time:
 
 About DockerHub:
 
-Results:
 
 
+Conclusions:
