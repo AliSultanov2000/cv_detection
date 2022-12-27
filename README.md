@@ -15,8 +15,6 @@ About transfer learning:
 
 Testing in real time:
 
-About DockerHub:
-
-
+About Docker and DockerHub:
 
 Conclusions:
