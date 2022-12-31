@@ -19,4 +19,4 @@ About Docker and DockerHub:
 About model opportunity:
 
 
-Conclusions:
+Project results:
