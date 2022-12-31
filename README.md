@@ -16,4 +16,7 @@ Testing in real time:
 
 About Docker and DockerHub:
 
+About model opportunity:
+
+
 Conclusions:
