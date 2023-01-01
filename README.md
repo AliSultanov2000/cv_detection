@@ -3,6 +3,9 @@ The goal of this project is to create and deploy a machine learning model for re
 Project stages: 
 - Data parsing
 - EDA
+- Data preprocessing
+- Create the AI model
+
 
 
 System deployment: 
