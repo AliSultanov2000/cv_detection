@@ -4,7 +4,7 @@ Project stages:
 - Data parsing
 - EDA
 - Data preprocessing
-- Create the AI model
+
 
 
 
